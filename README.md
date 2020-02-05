@@ -1,2 +1,0 @@
-# ChekBox
-Created with CodeSandbox
